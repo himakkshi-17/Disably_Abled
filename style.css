@@ -1,0 +1,19 @@
+body{
+    /* overflow-x: hidden; */
+    font-family: 'Catamaran', sans-serif;
+}
+.nav-link {
+  color: rgb(233, 247, 43) !important;
+}
+
+#footer{
+    color: blanchedalmond;
+    /* height: 200px !important; */
+    justify-content: space-around;
+}
+
+#connect .fab{
+    color: blanchedalmond;
+}
+
+
