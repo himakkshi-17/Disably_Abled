@@ -1,14 +1,42 @@
 body{
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
+    overflow-y: none;
     font-family: 'Catamaran', sans-serif;
+    margin: 0rem !important;
+    padding: 0rem !important;
+    box-sizing: border-box !important;
 }
 .nav-link {
   color: rgb(233, 247, 43) !important;
 }
 
+#navbar{
+    padding: 0rem !important;
+    margin: 0rem !important;
+}
+#car{
+    padding: 0rem !important;
+    margin: 1rem 0rem !important;  
+}
+#aam{
+    padding: 0rem !important;
+    margin: 2rem 0rem !important;
+}
+
+#vm{
+    padding: 0rem !important;
+    margin: 2rem 0rem !important; 
+}
+
+#reach{
+    padding: 0rem !important;
+    margin: 0rem !important;
+}
+
 #footer{
     color: blanchedalmond;
-    /* height: 200px !important; */
+    padding: 0rem !important;
+    margin: 0rem !important;
     justify-content: space-around;
 }
 
@@ -16,4 +44,17 @@ body{
     color: blanchedalmond;
 }
 
+/* @media screen and (max-width: 1140px){
+    #vm{
+        font-size: 1rem !important;
+    }
+    #vm img {
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 900px){
+
+} */
 
