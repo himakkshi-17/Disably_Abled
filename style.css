@@ -1,3 +1,6 @@
+html{
+    overflow-x: hidden;
+}
 body{
     overflow-x: hidden;
     overflow-y: none;
@@ -11,8 +14,9 @@ body{
 }
 
 .navbar{
-    padding: 0rem !important;
+    padding: 0.5rem 1rem !important;
     margin: 0rem !important;
+    
 }
 #car{
     padding: 0rem !important;
