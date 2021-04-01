@@ -10,13 +10,13 @@ body{
   color: rgb(233, 247, 43) !important;
 }
 
-#navbar{
+.navbar{
     padding: 0rem !important;
     margin: 0rem !important;
 }
 #car{
     padding: 0rem !important;
-    margin: 1rem 0rem !important;  
+    margin: 0rem 0rem !important;  
 }
 #aam{
     padding: 0rem !important;
@@ -43,18 +43,4 @@ body{
 #connect .fab{
     color: blanchedalmond;
 }
-
-/* @media screen and (max-width: 1140px){
-    #vm{
-        font-size: 1rem !important;
-    }
-    #vm img {
-        height: 300px;
-        width: auto;
-    }
-}
-
-@media screen and (max-width: 900px){
-
-} */
 
