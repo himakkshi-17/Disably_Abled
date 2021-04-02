@@ -16,7 +16,7 @@ body{
 .navbar{
     padding: 0.5rem 1rem !important;
     margin: 0rem !important;
-    
+    padding-bottom: 0rem !important;
 }
 #car{
     padding: 0rem !important;
